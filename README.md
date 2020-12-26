@@ -1,2 +1,4 @@
 # Disaster-tweets-using-NLP
-File "Twitter Data Analysis With Twitter Data Trained Word Embeddings.html" contains all the code for preprocessing, word vectorization, pre-trained models, self-trained model and classifier.
+train and test csv's are used to train and test the model
+There are two ipynbs, one is with pre-trained models and one with the models trained with the vocubalary of train.csv
+There is a report and presentation to understand the whole project,
